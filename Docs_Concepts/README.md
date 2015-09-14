@@ -1,24 +1,5 @@
-# ProjectRasoplast
+## Conceptual Documentation
 
-TODO
+#### General Notes:
 
-
-## Contributors:
-
-- Pascal Asselin (pascalooon)
-- Pascal Daguenais (dagp06)
-- Vincent Hallé (LordBop)
-- Julien Tremblay (julien07)
-
-
-## Current Iteration:
-##### Due Date : September 17th 2015
-##### Version : 0.0.0
-
-- Create an empty Unreal Engine 4 C++ project
-- Create the project architecture
-
-
-## Previous Iterations:
-
-
+This file contains documentation and graphs of the different modules of the project as well as conceptual drawings for interfaces and environments.
